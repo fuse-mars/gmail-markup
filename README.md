@@ -143,3 +143,6 @@ NOTE that we are using **SaveAction** instead of **ViewAction**
 ```
 
 * Save the html and then resend the email as you did in the [apps-script-tutorial](https://developers.google.com/gmail/markup/apps-script-tutorial)
+
+* Open your gmail, then you should see an email with a *Ignore Person* button.
+![Image of Gmail custom button](https://raw.githubusercontent.com/fuse-mars/gmail-markup/master/custom-button.png)
