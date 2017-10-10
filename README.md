@@ -1,4 +1,4 @@
-# Gmail markup
+# Gmail Markup
 
 **Google** allows you to interact with your email in a limited number of ways.
 
