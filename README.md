@@ -1,5 +1,10 @@
 # gmail-markup
-Click a button in Gmail
+
+**Google** allows you to interact with your email in a limited number of ways.
+
+One way is to *Click a button* for example you want to confirm whether an email from a potential client needs attention.
+
+And *Creating and showing this button*, is what we are going to walk through in write up.
 
 # Scenario
 We want the user to click a button specified on our **application/ld+json** script.
@@ -79,3 +84,5 @@ We want the user to click a button specified on our **application/ld+json** scri
 ```
 
 # Step by Step
+
+* 
