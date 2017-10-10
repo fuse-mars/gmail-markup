@@ -91,7 +91,7 @@ We want the user to click a button specified on our **application/ld+json** scri
 
 * Go to Google's [Email markup site](https://developers.google.com/gmail/markup/) and complete their [apps-script-tutorial](https://developers.google.com/gmail/markup/apps-script-tutorial) walkthrough.
 
-NOTE that the tutorial relies on **Google Apps Script** technology to send email.
+NOTE that the tutorial relies on [**Google Apps Script**](https://script.google.com) technology to send email.
 
 * Replace the html code you used in the [apps-script-tutorial](https://developers.google.com/gmail/markup/apps-script-tutorial), with the one below
 
