@@ -85,7 +85,7 @@ We want the user to click a button specified on our **application/ld+json** scri
 
 # End Goal
 
-TODO put picture of the button in Gmail
+![Image of Gmail custom button](https://raw.githubusercontent.com/fuse-mars/gmail-markup/master/custom-button.png)
 
 # Step by Step
 
