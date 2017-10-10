@@ -146,3 +146,14 @@ NOTE that we are using **SaveAction** instead of **ViewAction**
 
 * Open your gmail, then you should see an email with a *Ignore Person* button.
 ![Image of Gmail custom button](https://raw.githubusercontent.com/fuse-mars/gmail-markup/master/custom-button.png)
+
+* Now you can add custom buttons to your Gmail messages!
+
+# Resource
+
+Use case was taken from one of [Fusemachines](https://www.fusemachines.com/) products, [Anna](https://anna.fusemachines.com/) which helps sales people find forgotten emails from potential clients.
+
+* [Google Email Markup](https://developers.google.com)
+* [Apps Script](https://script.google.com)
+* [Schema.org](http://schema.org/)
+* [JSON-LD](https://json-ld.org/)
