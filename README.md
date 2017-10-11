@@ -26,6 +26,18 @@ We want the user to click a button specified on our **application/ld+json** scri
 ```html
 <html lang="en">
     <body>
+        <p>
+            Dear John, Mark from Google responded to your email in Inbox (john@comapny.com)
+        </p>
+        <p>
+            MESSAGE DETAILS<br/>
+            Hi John<br/>
+            Your product looks great<br/>
+            but it is more expensive than what we use now<br/>
+            and we do not plan to switch.<br/>
+            Sincerely
+        </p>
+        <hr>
         <script type="application/ld+json">
             {
                 "@context": "http://schema.org",
@@ -38,17 +50,6 @@ We want the user to click a button specified on our **application/ld+json** scri
                 }
             }
         </script>
-        <p>
-            Dear John, Mark from Google responded to your email in Inbox (john@comapny.com)
-        </p>
-        <p>
-            MESSAGE DETAILS<br/>
-            Hi John<br/>
-            Your product looks great<br/>
-            but it is more expensive than what we use now<br/>
-            and we do not plan to switch.<br/>
-            Sincerely
-        </p>
     </body>
 </html>
 ```
@@ -70,6 +71,18 @@ NOTE that we are using **SaveAction** instead of **ViewAction**
 ```html
 <html lang="en">
     <body>
+        <p>
+            Dear John, Mark from Google responded to your email in Inbox (john@comapny.com)
+        </p>
+        <p>
+            MESSAGE DETAILS<br/>
+            Hi John<br/>
+            Your product looks great<br/>
+            but it is more expensive than what we use now<br/>
+            and we do not plan to switch.<br/>
+            Sincerely
+        </p>
+        <hr>
         <script type="application/ld+json">
             {
                 "@context": "http://schema.org",
@@ -82,17 +95,6 @@ NOTE that we are using **SaveAction** instead of **ViewAction**
                 }
             }
         </script>
-        <p>
-            Dear John, Mark from Google responded to your email in Inbox (john@comapny.com)
-        </p>
-        <p>
-            MESSAGE DETAILS<br/>
-            Hi John<br/>
-            Your product looks great<br/>
-            but it is more expensive than what we use now<br/>
-            and we do not plan to switch.<br/>
-            Sincerely
-        </p>
     </body>
 </html>
 ```
